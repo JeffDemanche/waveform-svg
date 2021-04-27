@@ -14,8 +14,7 @@
   "devDependencies": {},
   "scripts": {
     "waveform-windows": "npx ts-node index.ts %npm_config_filename% %npm_config_width% %npm_config_height%",
-    "waveform-nonwindows": "npx ts-node index.ts ${npm_config_filename} ${npm_config_width} ${npm_config_height}",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "waveform-nonwindows": "npx ts-node index.ts ${npm_config_filename} ${npm_config_width} ${npm_config_height}"
   },
   "author": "",
   "license": "ISC"
