@@ -1,5 +1,7 @@
 # Waveform SVG
 
+![sample svg](./example/ingydar.mp3.svg)
+
 This will read an audio file and output an SVG of the waveform of that audio
 file.
 
