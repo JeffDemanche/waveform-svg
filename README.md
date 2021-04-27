@@ -1,4 +1,4 @@
-# Waveform SVG
+# Node Waveform SVG Generator
 
 ![sample svg](./example/ingydar.mp3.svg)
 
@@ -7,6 +7,8 @@ file.
 
 ## Usage
 
-`npm run waveform-windows --filname=audio.mp3 width=500 height=200`
+First do a `npm i`.
+
+`npm run waveform-windows --filename=audio.mp3 --width=500 --height=200`
 
 Use `npm run waveform-nonwindows` otherwise.
